@@ -33,17 +33,15 @@ The project should be deployed to AWS and a link for the website should be hande
 
 This assignment can be done by using the topics we covered in class. You do not have to dicover new techniques. What you know is enough. On the other hand you are also allowed to use stuff we did not cover in class if you feel like it.    
 
-
-
-## Groups [Document](https://docs.google.com/spreadsheets/d/1qvbF5UqJTwcWAYVajWfGMgetcDvAQE75zLZPkQbuJQY/edit?usp=sharing)
-You should do the assignment in groups. 
-
-Today (Thusday 8 of march) you should write your names of your group members in this [Document](https://docs.google.com/spreadsheets/d/1qvbF5UqJTwcWAYVajWfGMgetcDvAQE75zLZPkQbuJQY/edit?usp=sharing)
+## Design
+* Your project should be managed and documented through Unified Process.
+* Your application should make use of the design priciple of a state machine. You should document this in diagrams and it should also be coded in your application. It is only nessesary to show that you have used this concept, not that all of your code should be done using this technique.  
+* Reviews
 
 ## Handin
-You should hand in your project on Fronter latest Wednesday 14 at 12pm and you should deploy you application to AWS. Link to this should be provided in the handin folder on Fronter.
+You should hand in 2 links on Fronter one to your github repository one to your running application on AWS.
 
 ## Presentation
-**Thursday 15 from 12:30 - 15:00** you and your group should present for the class and Claus what you did. You will all get approximately 10-15 minutes and after that we talk about what was good and what was exelent.
+**XXX from 12:30 - 15:00** you and your group should present for the class and Claus what you did. You will all get approximately 10-15 minutes and after that we talk about what was good and what was exelent.
 
-<div style="text-align:right">&copy; clbo@kea.dk 03-2018 </div>
+<div style="text-align:right">&copy; clbo@kea.dk 03-2018, ed. 03-10-2018 </div>
